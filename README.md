@@ -3,7 +3,7 @@ A modern, responsive landing page built with Next.js and Tailwind CSS for the Do
 
 🚀 Live Demo
 
-Vercel Live URL: https://bytespace-learning-platform-website-eight.vercel.app[cite: 5]
+Vercel Live URL: https://bytespace-learning-platform-website-eight.vercel.app
 
 🛠️ Tech Stack
 
